@@ -1,18 +1,19 @@
 {
-  "name": "koa-cli",
+  "name": "@z-xj/koa-cli",
   "version": "1.0.0",
-  "description": "",
+  "description": "create a koa project",
   "bin": {
-    "koa-cli": "bin/koa-cli"
+    "koa-cli": "bin/koa-cli.js"
   },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "zxj",
   "license": "ISC",
   "dependencies": {
     "chalk": "^4.1.0",
+    "commander": "^6.2.0",
     "inquirer": "^7.3.3",
     "mem-fs": "^1.2.0",
     "mem-fs-editor": "^7.1.0"
