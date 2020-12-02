@@ -1,10 +1,3 @@
-/*
- * @Author: zxj
- * @Date: 2020-12-01 15:54:20
- * @LastEditors: zxj
- * @LastEditTime: 2020-12-01 19:45:24
- * @FilePath: /koa-cli/src/creator.js
- */
 const inquirer = require('inquirer');
 const fs = require('fs');
 const path = require('path');

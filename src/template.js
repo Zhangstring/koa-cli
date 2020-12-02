@@ -1,11 +1,3 @@
-/*
- * @Author: zxj
- * @Date: 2020-12-01 16:48:30
- * @LastEditors: zxj
- * @LastEditTime: 2020-12-01 19:55:23
- * @FilePath: /koa-cli/src/template.js
- */
-
 const chalk = require('chalk');
 const path = require('path');
 const fs = require('fs');
